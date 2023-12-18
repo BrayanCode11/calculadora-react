@@ -5,8 +5,18 @@ function App() {
   return (
     <div className="App">
       <div className="freecodecamp-logo-contenedor">
-        <img src={freeCodeCampLogo} alt="Logo de freeCodeCamp" className="freecodecamp-logo" />
+        <img
+          src={freeCodeCampLogo}
+          alt="Logo de freeCodeCamp"
+          className="freecodecamp-logo"
+        />
       </div>
+
+      <div className="contenedor-calculadora">
+
+      </div>
+
+
     </div>
   );
 }
